@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1# Logs
+=======
+# Logs
+>>>>>>> aa64f18d1cf8e83ac0d85c651a35af91edeeb170
 logs
 *.log
 npm-debug.log*
@@ -8,6 +12,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules/
+
 dist
 dist-ssr
 *.local
